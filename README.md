@@ -77,7 +77,7 @@ If you want to redirect to `https://www.example.com`, your `index.html` file sho
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
